@@ -1,1 +1,1 @@
-Do you know how to create modules and widgets on Yii2?
+Do you know how to install widgets and modules from yiigist.com?
